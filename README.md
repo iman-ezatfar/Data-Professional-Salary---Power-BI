@@ -1,18 +1,18 @@
 # Data Professional Salaries Analysis – Power BI Dashboard
 
-## 📊 Dashboard Snapshot
+##  Dashboard Snapshot
 
 ![Screenshot 2025-05-23 092953](https://github.com/user-attachments/assets/92ea7172-8d89-4f3f-8c7b-2877a1367415)
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This Power BI dashboard provides an interactive and visual analysis of salaries for data professionals across various roles, employment types, and experience levels. It enables decision-makers, analysts, and job seekers to explore trends, compare job titles, and understand how salary varies by year, region, and work setting (remote/on-site).
 
 ---
 
-## ❓ Business Questions Answered:
+##  Business Questions Answered:
 
 1. **What is the salary range for data professionals globally?**
 2. **How have average salaries changed over time?**
@@ -24,7 +24,7 @@ This Power BI dashboard provides an interactive and visual analysis of salaries 
 
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 - **Min Salary**: 16K  
 - **Max Salary**: 750K  
@@ -35,14 +35,14 @@ This Power BI dashboard provides an interactive and visual analysis of salaries 
 
 ---
 
-## 🌍 Geographical Coverage
+##  Geographical Coverage
 
 - Countries included: United States, Canada, UK, Germany, India, Australia, Brazil, and more
 - Interactive map to filter salary data by region
 
 ---
 
-## 📅 Time and Role Filters
+## Time and Role Filters
 
 - Filterable by **Year**: 2020–2023  
 - Filterable by **Experience Level**: Entry, Mid, Senior, Executive  
